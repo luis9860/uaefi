@@ -1,4 +1,4 @@
-# Ultra Affordable EFI
+# Ultra Affordable EFIi
 
 🟢[$175 base model rusEFI store](https://www.shop.rusefi.com/shop/p/uaefi-ultra-affordable-efi)🟢
 
